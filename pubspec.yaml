@@ -1,0 +1,49 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  image_picker: ^1.0.4
+  image: ^4.0.17
+  path_provider: ^2.1.1
+  shared_preferences: ^2.2.1
+  
+  # GOOGLE ML KIT - GÜNCEL VERSİYONLAR
+  google_mlkit_text_recognition: ^0.13.0
+  google_mlkit_digital_ink_recognition: ^0.8.0
+  
+  # KAMERA - GÜNCELLENMİŞ
+  camera: ^0.10.5+1
+  image_picker: ^1.0.4
+  image: ^4.0.17
+  
+  # SES ve KONUŞMA
+  speech_to_text: ^7.3.0
+  flutter_tts: ^3.8.3
+  
+  # HTTP İSTEKLERİ - GÜNCELLENMİŞ
+  http: ^1.1.0
+  
+  # DEPOLAMA
+  shared_preferences: ^2.2.2
+  path: ^1.8.3
+  path_provider: ^2.1.1
+  
+  # UI ve ANİMASYON
+  flutter_animate: ^4.2.0
+  shimmer: ^3.0.0
+  
+  # PAYLAŞIM - GÜNCELLENMİŞ
+  share_plus: ^7.2.2
+  
+  # TARİH FORMATLAMA
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/animations/
